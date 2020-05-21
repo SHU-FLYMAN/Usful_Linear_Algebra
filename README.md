@@ -7,13 +7,13 @@
 
     - 讲义
     - 课程
-    - 笔记[](https://github.com/SHU-FLYMAN/Usful_Linear_Algebra/blob/master/%E7%AC%AC1%E7%AB%A0%20%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E4%B8%AD%E7%9A%84%E7%BA%BF%E6%80%A7%E6%96%B9%E7%A8%8B/%E5%89%8D%E8%A8%80%EF%BC%9A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8.pdf)
+    - [笔记](https://github.com/SHU-FLYMAN/Usful_Linear_Algebra/blob/master/%E7%AC%AC1%E7%AB%A0%20%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E4%B8%AD%E7%9A%84%E7%BA%BF%E6%80%A7%E6%96%B9%E7%A8%8B/%E5%89%8D%E8%A8%80%EF%BC%9A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8.pdf)
 
   - 1.1 线代的核心用处：解线性方程组
 
     - 讲义
     - 课程
-    - 笔记[](https://github.com/SHU-FLYMAN/Usful_Linear_Algebra/blob/master/%E7%AC%AC1%E7%AB%A0%20%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E4%B8%AD%E7%9A%84%E7%BA%BF%E6%80%A7%E6%96%B9%E7%A8%8B/1.1%20%E7%BA%BF%E4%BB%A3%E7%9A%84%E6%A0%B8%E5%BF%83%E7%94%A8%E5%A4%84-%E8%A7%A3%E7%BA%BF%E6%80%A7%E6%96%B9%E7%A8%8B%E7%BB%84.pdf)
+    - [笔记](https://github.com/SHU-FLYMAN/Usful_Linear_Algebra/blob/master/%E7%AC%AC1%E7%AB%A0%20%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E4%B8%AD%E7%9A%84%E7%BA%BF%E6%80%A7%E6%96%B9%E7%A8%8B/1.1%20%E7%BA%BF%E4%BB%A3%E7%9A%84%E6%A0%B8%E5%BF%83%E7%94%A8%E5%A4%84-%E8%A7%A3%E7%BA%BF%E6%80%A7%E6%96%B9%E7%A8%8B%E7%BB%84.pdf)
 
   - 1.2 线性方程组有解无解的其他说法
 
